@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**dennisnyarko/dennisnyarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me 🤔
+I am results-driven developer with experience in delivering software solutions. I am a quick learner and have a strong understanding of software development methodologies and best practices. I am passionate about technology and I am always looking for new ways to improve my skills and stay up-to-date with the latest industry trends. I am a strong communicator and can work effectively in a team environment. With backend development being my main focus, below is an overview on my tech stack & skills: 
 
-Here are some ideas to get you started:
+Skills & Stack👨‍💻
+⦿ Languages and frameworks: Javascript, Typescript, React, Express.js (Node.js) | Python (Django, Flask) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⦿ API: REST, GraphQL 
+
+⦿ Database: MongoDB, MySQL 
+
+⦿ Cloud Infrastructure: Heroku, Netlify 
+
+With most of my developer experience being from freelance and building side projects, I am looking to officially transition into the corporate world and I’d appreciate any form of support and mentorship to help me achieve this. I am also actively searching for entry-level or junior developer roles or internships. You’re most welcome to reach out if you can assist in any way.
+
