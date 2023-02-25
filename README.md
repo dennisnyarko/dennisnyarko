@@ -5,13 +5,13 @@ I am results-driven developer with experience in delivering software solutions. 
 
 ### 👨‍💻 Skills & Stack  
 
-⦿ Languages and frameworks: Javascript, Typescript, React, Express.js (Node.js) | Python (Django, Flask) 
+- Languages and frameworks: Javascript, Typescript, React, Express.js (Node.js) | Python (Django, Flask) 
 
-⦿ API: REST, GraphQL 
+- API: REST, GraphQL 
 
-⦿ Database: MongoDB, MySQL 
+- Database: MongoDB, MySQL 
 
-⦿ Cloud Infrastructure: Heroku, Netlify 
+- Cloud Infrastructure: Heroku, Netlify 
 
 ### 📈 My Current Focus 
 With most of my developer experience being from freelance and building side projects, I am looking to officially transition into the corporate world and I’d appreciate any form of support and mentorship to help me achieve this. I am also actively searching for entry-level or junior developer roles or internships. You’re most welcome to reach out if you can assist in any way.
