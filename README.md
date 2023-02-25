@@ -1,9 +1,9 @@
-### Hi there 👋 You're welcome😁 I am Dennis Nyarko.
+### Hi there 👋 I'm Dennis Nyarko.
 
-### About Me 🤔
+### 🤔 About Me 
 I am results-driven developer with experience in delivering software solutions. I am a quick learner and have a strong understanding of software development methodologies and best practices. I am passionate about technology and I am always looking for new ways to improve my skills and stay up-to-date with the latest industry trends. I am a strong communicator and can work effectively in a team environment. With backend development being my main focus, below is an overview on my tech stack & skills: 
 
-### Skills & Stack 👨‍💻
+### 👨‍💻 Skills & Stack  
 
 ⦿ Languages and frameworks: Javascript, Typescript, React, Express.js (Node.js) | Python (Django, Flask) 
 
@@ -13,9 +13,9 @@ I am results-driven developer with experience in delivering software solutions. 
 
 ⦿ Cloud Infrastructure: Heroku, Netlify 
 
-### My Current Focus ⏩
+### 📈 My Current Focus 
 With most of my developer experience being from freelance and building side projects, I am looking to officially transition into the corporate world and I’d appreciate any form of support and mentorship to help me achieve this. I am also actively searching for entry-level or junior developer roles or internships. You’re most welcome to reach out if you can assist in any way.
 
-### Contact Me 📞
-Please feel free to contact me via my email (info@dennisnyarko.com) or through my linkedIn (noted below my profile picture). Until then, thank you for visiting my profile and feel free to check out my projects/repositories. 
+### 📞 Contact Me
+Please feel free to contact me via my email (info@dennisnyarko.com) or through my linkedIn (noted below my profile picture). Until then, thank you for visiting my profile and feel free to check out my projects/repositories.😁 
 
