@@ -5,7 +5,8 @@ I am a results-driven developer with experience in delivering software solutions
 
 ### 👨‍💻 Skills & Stack  
 
-- Languages and frameworks: Javascript, Typescript, React, Express.js, Node.js | Python, Django
+- Languages and frameworks: Javascript, Typescript, React, Express.js, Node.js | Python, Django.
+
 As a developer focused on back-end development using Node.js and Python, I'm a also able to build simple full-stack web applications with the help of React on the front-end.
 
 - API: REST, GraphQL 
