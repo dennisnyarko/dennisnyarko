@@ -5,7 +5,7 @@ I am a results-driven developer with experience in delivering software solutions
 
 ### 👨‍💻 Skills & Stack
 
-- As a developer focused primarily on backend development using Python(Django) and Node.js(Express) with MongoDB. I also have experience developing full-stack applications using JavaScript.
+A developer focused primarily on backend development using Python(Django) and Node.js(Express) with MongoDB. I also have experience developing full-stack applications using JavaScript.
 
 - Languages and frameworks: Javascript, Typescript, React, Express.js, Node.js | Python, Django.
 
@@ -14,7 +14,6 @@ I am a results-driven developer with experience in delivering software solutions
 - Database: MongoDB, MySQL 
 
 - Hosting: Hostinger, Heroku, Netlify 
-
 
 ### 📞 Contact Me
 Please feel free to contact me via my email (info@dennisnyarko.com) or through my linkedIn (noted below my profile picture). Until then, thank you for visiting my profile and feel free to check out my projects/repositories. 
