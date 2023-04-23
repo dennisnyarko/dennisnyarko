@@ -16,5 +16,5 @@ A developer focused primarily on backend development using Python(Django) and No
 - Hosting: Hostinger, Heroku, Netlify 
 
 ### 📞 Contact Me
-Please feel free to contact me via my email (info@dennisnyarko.com) or through my linkedIn (noted below my profile picture). Until then, thank you for visiting my profile and feel free to check out my projects/repositories. 
+Please feel free to contact me via my email (info@dennisnyarko.com) or through my linkedIn. Until then, thank you for visiting my profile and feel free to check out my projects/repositories. 
 
