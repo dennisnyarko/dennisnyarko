@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Dennis Nyarko.</h1>
 
 ### 🤔 About Me 
-I am a results-driven developer with experience in delivering software solutions. I am a quick learner and have a strong understanding of software development methodologies and best practices. I am passionate about technology and I am always looking for new ways to improve my skills and stay up to date with the latest industry trends. I am a strong communicator and I can work effectively in a team environment. Below is an overview on my tech stack & skills: 
+A results-driven developer with experience in delivering software solutions. I am a quick learner and I have a strong understanding of software development methodologies and best practices. I am passionate about technology and I am always looking for new ways to improve my skills and stay up to date with the latest industry trends. I am a strong communicator and I can work effectively in a team environment. Below is an overview on my tech stack & skills: 
 
 ### 👨‍💻 Skills & Stack
 
