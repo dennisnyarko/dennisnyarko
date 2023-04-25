@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Dennis Nyarko.</h1>
 
-### 🤔 About Me 
+## 🤔 About Me 
 A results-driven developer with experience in delivering software solutions. I am a quick learner and I have a strong understanding of software development methodologies and best practices. I am passionate about technology and I am always looking for new ways to improve my skills and stay up to date with the latest industry trends. I am a strong communicator and I can work effectively in a team environment. Below is an overview on my tech stack & skills: 
 
-### 👨‍💻 Skills & Stack
+## 👨‍💻 Skills & Stack
 
 A developer focused primarily on backend development using Python(Django) and Node.js(Express) with MongoDB. I also have experience developing full-stack applications using JavaScript.
 
@@ -15,6 +15,6 @@ A developer focused primarily on backend development using Python(Django) and No
 
 - Hosting: Hostinger, Heroku, Netlify 
 
-### 📞 Contact Me
+## 📞 Contact Me
 Please feel free to contact me via my email (info@dennisnyarko.com) or through my linkedIn. Until then, thank you for visiting my profile and feel free to check out my projects/repositories. 
 
