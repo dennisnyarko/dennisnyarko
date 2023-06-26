@@ -1,20 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Dennis Nyarko.</h1>
 
-## 🤔 About Me 
-A results-driven developer with experience in delivering software solutions. I am a quick learner and I have a strong understanding of software development methodologies and best practices. I am passionate about technology and I am always looking for new ways to improve my skills and stay up to date with the latest industry trends. I am a strong communicator and I can work effectively in a team environment.
+Passionate Junior Backend Software Engineer with expertise in Python development and a focus on building scalable web applications. Proficient in Python frameworks like Django and Flask, with experience in RESTful API design and implementation. Skilled in database management using SQL and NoSQL solutions such as PostgreSQL and MongoDB. Committed to delivering clean, maintainable code and collaborating effectively with cross-functional teams. Eager to contribute skills and learn from experienced professionals to drive organizational success.
 
-## 👨‍💻 Skills & Stack
-
-I am focused primarily on backend development using Python(Django) and Node.js(Express) with MongoDB. I also have experience developing full-stack applications using JavaScript.
-
-- Languages and frameworks: Javascript, Typescript, React, Express.js, Node.js | Python, Django.
-
-- API: REST, GraphQL 
-
-- Database: MongoDB, MySQL 
-
-- Hosting: Hostinger, Heroku, Netlify 
-
-## 📞 Contact Me
-Kindly contact me via my email (info@dennisnyarko.com) or through my linkedIn for any collaborative work. Until then, thank you for visiting my profile and feel free to check out my projects/repositories. 
-
+https://dennisnyarko.com
